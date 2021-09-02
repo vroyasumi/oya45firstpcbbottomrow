@@ -1549,4 +1549,34 @@ Wire Wire Line
 Connection ~ 10000 5000
 Wire Wire Line
 	10000 5000 9950 5000
+Wire Wire Line
+	10250 4800 10200 4800
+Connection ~ 10250 4800
+Connection ~ 10050 4800
+Wire Wire Line
+	10050 4800 10000 4800
+Connection ~ 10100 4800
+Wire Wire Line
+	10100 4800 10050 4800
+Connection ~ 10150 4800
+Wire Wire Line
+	10150 4800 10100 4800
+Connection ~ 10200 4800
+Wire Wire Line
+	10200 4800 10150 4800
+Wire Wire Line
+	5750 4800 5700 4800
+Connection ~ 5750 4800
+Connection ~ 5550 4800
+Wire Wire Line
+	5550 4800 5500 4800
+Connection ~ 5600 4800
+Wire Wire Line
+	5600 4800 5550 4800
+Connection ~ 5650 4800
+Wire Wire Line
+	5650 4800 5600 4800
+Connection ~ 5700 4800
+Wire Wire Line
+	5700 4800 5650 4800
 $EndSCHEMATC
