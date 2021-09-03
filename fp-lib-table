@@ -4,4 +4,5 @@
   (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/Keebio-Parts.pretty)(options "")(descr ""))
   (lib (name keebio-components)(type KiCad)(uri ${KIPRJMOD}/keebio-components)(options "")(descr ""))
   (lib (name kbd)(type KiCad)(uri ${KIPRJMOD}/kbd/kicad-footprints/kbd.pretty)(options "")(descr ""))
+  (lib (name soldermask)(type KiCad)(uri ${KIPRJMOD}/soldermask.pretty)(options "")(descr ""))
 )
